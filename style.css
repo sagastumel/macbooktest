@@ -1,0 +1,27 @@
+.header{
+  color: gray;
+}
+.white{
+  background-color: white;
+
+}
+body{
+  background-color: black;
+}
+h1{
+  text-align:center;
+}
+.seconddiv{
+  height: 200px;
+}
+.clrblue{
+  background-color:blue;
+  height: 200px;
+}
+.clrgreen{
+  background-color: green;
+  height: 200px;
+}
+.changecolor{
+  color:white;
+}
